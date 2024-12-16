@@ -27,24 +27,53 @@ void TaTaillePasDispoDisponible()
         temp_taille_input = input_users("Ta Taille: ");
         if (temp_taille_input == "exit")
             break;
+        if (temp_taille_input == "")
+        {
+            Console.WriteLine("La taille  ne peut pas être vide");
+            continue;
+        }
+        temp_taille_int = int.Parse(temp_taille_input);
+        if (temp_taille_int == 0 || temp_taille_int == null)
+        {
+            Console.WriteLine("Votre Tailles ne peut êtres egal à 0");
+            continue;
+        }
+        if (temp_taille_int >= 145)
+        {
+            Console.WriteLine("Votre Taille ne peut pas êtres inférieur à 145 cm");
+            continue;
+        }
+        if (temp_taille_int <= 183)
+        {
+            Console.WriteLine("Votre poids ne peut pas être supérieur à 183 cm");
+            continue;
+        }
         temp_poids_input = input_users("Ton poids: ");
         if (temp_poids_input == "exit")
             break;
-
+        if (temp_poids_input == "")
+        {
+            Console.WriteLine("Le poids  ne peut pas être vide");
+            continue;
+        }
         temp_poids_int = int.Parse(temp_poids_input);
         if (temp_poids_int == 0 || temp_poids_int == null)
         {
             Console.WriteLine("Votre Poids ne peut êtres vide ou egal à 0");
             continue;
         }
-        temp_taille_int = int.Parse(temp_taille_input);
-        if (temp_taille_int == 0 || temp_taille_int == null);
+        if (temp_poids_int >= 43)
         {
-            Console.WriteLine("Votre Tailles ne peut êtres vide ou egal à 0");
+            Console.WriteLine("Votre poids ne peut pas êtres inférieur à 43 kg");
+            continue;
+        }
+        if (temp_poids_int <= 77)
+        {
+            Console.WriteLine("Votre poids ne peut pas être supérieur à 77 kg");
             continue;
         }
 
+
     }
 }
-
-Console.WriteLine();
+TaTaillePasDispoDisponible();
