@@ -1,0 +1,15 @@
+C:\Environement_Programation\repo_example\Structure_Conditionelle_CSharp\exo_8\exo_8\bin\Debug\net8.0\exo_8.exe
+C:\Environement_Programation\repo_example\Structure_Conditionelle_CSharp\exo_8\exo_8\bin\Debug\net8.0\exo_8.deps.json
+C:\Environement_Programation\repo_example\Structure_Conditionelle_CSharp\exo_8\exo_8\bin\Debug\net8.0\exo_8.runtimeconfig.json
+C:\Environement_Programation\repo_example\Structure_Conditionelle_CSharp\exo_8\exo_8\bin\Debug\net8.0\exo_8.dll
+C:\Environement_Programation\repo_example\Structure_Conditionelle_CSharp\exo_8\exo_8\bin\Debug\net8.0\exo_8.pdb
+C:\Environement_Programation\repo_example\Structure_Conditionelle_CSharp\exo_8\exo_8\obj\Debug\net8.0\exo_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Environement_Programation\repo_example\Structure_Conditionelle_CSharp\exo_8\exo_8\obj\Debug\net8.0\exo_8.AssemblyInfoInputs.cache
+C:\Environement_Programation\repo_example\Structure_Conditionelle_CSharp\exo_8\exo_8\obj\Debug\net8.0\exo_8.AssemblyInfo.cs
+C:\Environement_Programation\repo_example\Structure_Conditionelle_CSharp\exo_8\exo_8\obj\Debug\net8.0\exo_8.csproj.CoreCompileInputs.cache
+C:\Environement_Programation\repo_example\Structure_Conditionelle_CSharp\exo_8\exo_8\obj\Debug\net8.0\exo_8.sourcelink.json
+C:\Environement_Programation\repo_example\Structure_Conditionelle_CSharp\exo_8\exo_8\obj\Debug\net8.0\exo_8.dll
+C:\Environement_Programation\repo_example\Structure_Conditionelle_CSharp\exo_8\exo_8\obj\Debug\net8.0\refint\exo_8.dll
+C:\Environement_Programation\repo_example\Structure_Conditionelle_CSharp\exo_8\exo_8\obj\Debug\net8.0\exo_8.pdb
+C:\Environement_Programation\repo_example\Structure_Conditionelle_CSharp\exo_8\exo_8\obj\Debug\net8.0\exo_8.genruntimeconfig.cache
+C:\Environement_Programation\repo_example\Structure_Conditionelle_CSharp\exo_8\exo_8\obj\Debug\net8.0\ref\exo_8.dll
